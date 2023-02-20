@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    font-family: 'Yeon Sung', cursive;
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .input_div_message_page {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .input_div_message_page label {
+    margin-right: 10px;
+  }
+  
+  .input_div_message_page input[type="text"] {
+    flex: 1;
+    margin-right: 10px;
+  }
+  

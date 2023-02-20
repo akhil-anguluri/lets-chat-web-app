@@ -1,0 +1,85 @@
+.header {
+    font-family: 'Yeon Sung', cursive;
+    color: #1da1f2;
+  }
+  
+  .input_div_room_page {
+    margin-top: 20px;
+  }
+  
+  .btn-success {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .color_white {
+    color: white;
+  }
+  
+  .container {
+    background-color: #1da1f2;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #logout {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  body {
+    background-color: #484848;
+    font-family: 'Yeon Sung', sans-serif;
+  }
+  
+  .header {
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  
+  .input_div_room_page {
+    margin-top: 20px;
+  }
+  
+  .btn-success {
+    margin-top: 20px;
+  }
+  
+  .color_white {
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  
+  #logout {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  h3 {
+    font-size: 25px;
+  }
+  
+  label {
+    font-size: 25px;
+  }
+  
+  input {
+    font-size: 25px;
+  }
+  
+  button {
+    font-size: 25px;
+  }
+  
+  #output {
+    margin-top: 20px;
+    font-size: 25px;
+  }
+  

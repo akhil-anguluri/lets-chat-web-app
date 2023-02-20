@@ -1,0 +1,61 @@
+body {
+    background-color: #FFB347;
+    font-family: Arial, sans-serif;
+  }
+h1 {
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color:#00bfff ;
+}
+  
+  .container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  #user_name{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-color: #87CEEB;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    resize: none;
+  }
+  
+ #login_button{
+    width: 20%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: lightblue;
+  border-color: #000080;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 70px
+
+  }
+  
+  #login_button:hover {
+    background-color: #90EE90   ;
+    border: 2px solid #006400;
+    color: white;
+}
+username-holder {
+  font-weight: bold;
+}
+
+.logout-btn {
+  margin-right: 10px;
+}
+
+.room-input {
+  margin-bottom: 10px;
+}
+
+.add-room-btn {
+  margin-left: 10px;
+}
